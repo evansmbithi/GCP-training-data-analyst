@@ -1,4 +1,4 @@
-- Earthquake regions-ML
+## Earthquake regions-ML
 - git clone
 - cd /courses/bdml_fundamentals/demos/earthquakevm/
 - ./install_missing.sh - install dependencies
